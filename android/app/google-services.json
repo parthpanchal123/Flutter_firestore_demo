@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "893535271877",
+    "firebase_url": "https://my-test-app-75730.firebaseio.com",
+    "project_id": "my-test-app-75730",
+    "storage_bucket": "my-test-app-75730.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893535271877:android:f3c8761032be352af129ac",
+        "android_client_info": {
+          "package_name": "com.parthpanchal.mytestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893535271877-jf4pv3n74bp7do31qdlt16vnnmtv0sf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_FfafEaOan1VBUiviO7pcaZkihzXzqfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893535271877-jf4pv3n74bp7do31qdlt16vnnmtv0sf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
