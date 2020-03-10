@@ -1,6 +1,6 @@
-# mytestapp
+# Flutter_firebase_demo
 
-A new Flutter application.
+A Flutter application demonstrating Firestore CRUD operations and MLVision kits text detector from images .
 
 ## Getting Started
 
